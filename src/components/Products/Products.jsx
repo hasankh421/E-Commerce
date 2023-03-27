@@ -20,7 +20,7 @@ const Products = () => {
         <input type="search" className='form-control' name='pname' value={search} onChange={(e)=>{setSearch(e.target.value)}} />
         <div className='d-flex flex-wrap my-5'>
 
-            {products.filter((product)=>{
+            {products.filter((product)=> {
                 if(search ==="") {
                   return product;
                 }else if (product.title.tLowerCase.includes(search.toLowerCase())){

@@ -31,12 +31,12 @@ const Navbar = () => {
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
      
         <li class="nav-item">
-          <a class="nav-link" href="/">Register</a>
+          <Link class="nav-link" to="/register">Register</Link>
         </li>
         
      
         <li class="nav-item">
-          <a class="nav-link" href="/">Login</a>
+          <Link class="nav-link" to="/login">Login</Link>
         </li>
         
        
