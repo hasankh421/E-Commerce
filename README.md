@@ -1,5 +1,7 @@
 # This is simple ecommecre website is maded by React.Js
-## This website is divided into several sections
+## This is a simple ecommerce site that has been made using React.Js with the addition of SPA and this site is divided into several sections
+
+
 ### The Home page is the first page
 
 ![image_2023-04-14_231630824](https://user-images.githubusercontent.com/102171363/232156361-991fb7ce-d32a-461b-93b2-464d106167e7.png)
