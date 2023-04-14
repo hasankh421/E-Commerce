@@ -1,6 +1,25 @@
-# This is simple ecommecre website is maded by React.Js
-## This is a simple ecommerce site that has been made using React.Js with the addition of SPA and this site is divided into several sections
+# This is simple ecommecre website is maded by React.Js 
 
+## Description
+
+#### This is a simple ecommerce site that has been made using React.Js with the addition of SPA and this site is divided into several sections
+
+## Cloning and Running the Application in local
+
+### Clone the project into local
+
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+
+##### npm install
+
+
+### In order to run the application Type the following command
+
+##### npm start
+
+### The Application Runs on localhost:3000
+
+## Preview
 
 ### The Home page is the first page
 
